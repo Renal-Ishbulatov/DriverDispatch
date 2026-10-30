@@ -29,6 +29,8 @@
 
     dotnet run -c Release --project DriverDispatch.Benchmarks
 
-## Результаты бенчмарков
+## Скриншоты результатов сравнения
 
-Сравнение производительности трёх алгоритмов (BenchmarkDotNet, .NET 6, Release) приведено в файлах проекта DriverDispatch.Benchmarks (папка BenchmarkDotNet.Artifacts), а также в отчёте, приложенном отдельно.
+Сравнение производительности трёх алгоритмов (BenchmarkDotNet, .NET 6, Release):
+
+![Результаты BenchmarkDotNet](screenshots/04-benchmarks.png)
